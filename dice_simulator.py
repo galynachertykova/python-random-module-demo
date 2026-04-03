@@ -1,4 +1,4 @@
-"""Simulate rolling a six-sided die and print the result."""
+"""Roll a six-sided die and print the result."""
 
 import random
 
