@@ -1,4 +1,4 @@
-"""Generate and print a random float between 0 and 1."""
+"""Generate a random float from 0 to 1 and print it."""
 
 import random
 
